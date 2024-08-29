@@ -1,0 +1,30 @@
+*{
+   font-size: 12pt;
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   color: #222;
+   font-family: Verdana, sans-serif;
+
+}
+
+#interface {
+    display: block;
+    width: 100%;
+    padding: 2rem;
+    background-color: #fafafa;
+
+}
+#interface.cabecalho{
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+    border: 1px solid green;
+
+}
+#interface .cabecalho h2 {
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+
+}
