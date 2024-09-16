@@ -52,7 +52,6 @@
 #interface table #painel #txt_operadores{
     display: block;
     color: #fafafa;
-    font-size: 22px;
     text-align: right;
 }
 
@@ -62,6 +61,7 @@
     border: 0;  
     outline: none;
     color: #fafafa;
+    font-size: 18px;
     text-align: right;
 }
 
